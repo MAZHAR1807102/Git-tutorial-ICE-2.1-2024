@@ -30,6 +30,9 @@ public class Test {
 
         } catch (IOException e) {
             System.err.println("Client error: " + e.getMessage());
+
+
+            System.out.println("this is from sazzad");
         }
     }
 }
